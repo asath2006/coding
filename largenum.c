@@ -14,7 +14,7 @@ int main()
 {
     int n;
     printf("Enter the size:");
-    scanf("%d",&n);
+    scanf("%d",&n);t t
     int a[n];
     for(int i=0;i<n;i++)
     {
